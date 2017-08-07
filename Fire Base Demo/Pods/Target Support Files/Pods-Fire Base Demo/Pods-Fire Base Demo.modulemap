@@ -1,0 +1,6 @@
+framework module Pods_Fire_Base_Demo {
+  umbrella header "Pods-Fire Base Demo-umbrella.h"
+
+  export *
+  module * { export * }
+}

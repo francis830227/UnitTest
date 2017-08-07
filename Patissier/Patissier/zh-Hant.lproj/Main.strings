@@ -1,0 +1,138 @@
+
+/* Class = "UILabel"; text = "1"; ObjectID = "0f8-VN-7e8"; */
+"0f8-VN-7e8.text" = "1";
+
+/* Class = "UITabBarItem"; title = "Store"; ObjectID = "4WD-NO-4r3"; */
+"4WD-NO-4r3.title" = "Store";
+
+/* Class = "UILabel"; text = "$120"; ObjectID = "5TG-0s-2sO"; */
+"5TG-0s-2sO.text" = "$120";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "6vw-6z-fM4"; */
+"6vw-6z-fM4.text" = "Address";
+
+/* Class = "UILabel"; text = "price"; ObjectID = "7w2-0l-ZHR"; */
+"7w2-0l-ZHR.text" = "price";
+
+/* Class = "UILabel"; text = "Francis Tseng"; ObjectID = "8cX-Jf-tIG"; */
+"8cX-Jf-tIG.text" = "Francis Tseng";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "FXg-nS-CQn"; */
+"FXg-nS-CQn.text" = "First Name";
+
+/* Class = "UILabel"; text = "Phone Number"; ObjectID = "Fau-Vi-bK2"; */
+"Fau-Vi-bK2.text" = "Phone Number";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "G0p-S3-DLL"; */
+"G0p-S3-DLL.title" = "Profile";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Gc7-LJ-eHj"; */
+"Gc7-LJ-eHj.text" = "Title";
+
+/* Class = "UINavigationItem"; title = "Profile"; ObjectID = "H6E-FC-3cc"; */
+"H6E-FC-3cc.title" = "Profile";
+
+/* Class = "UINavigationItem"; title = "Pâtissier"; ObjectID = "M3J-1a-Xc3"; */
+"M3J-1a-Xc3.title" = "Pâtissier";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "M8q-aI-cUd"; */
+"M8q-aI-cUd.title" = "Title";
+
+/* Class = "UILabel"; text = "Code"; ObjectID = "MBi-m3-Dle"; */
+"MBi-m3-Dle.text" = "Code";
+
+/* Class = "UILabel"; text = "Shipping"; ObjectID = "PYG-ad-cyH"; */
+"PYG-ad-cyH.text" = "Shipping";
+
+/* Class = "UILabel"; text = "Same as Buyer"; ObjectID = "RFY-Ee-8uI"; */
+"RFY-Ee-8uI.text" = "Same as Buyer";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "Rwe-wT-1eQ"; */
+"Rwe-wT-1eQ.text" = "Date";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "U6U-A3-6kb"; */
+"U6U-A3-6kb.text" = "Label";
+
+/* Class = "UILabel"; text = "Pâtissier"; ObjectID = "Ucn-sa-qNN"; */
+"Ucn-sa-qNN.text" = "Pâtissier";
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "Vpg-U1-KFl"; */
+"Vpg-U1-KFl.text" = "Last Name";
+
+/* Class = "UILabel"; text = "Postal Code"; ObjectID = "WBI-zE-Ln9"; */
+"WBI-zE-Ln9.text" = "Postal Code";
+
+/* Class = "UILabel"; text = "$120"; ObjectID = "WZJ-fZ-t84"; */
+"WZJ-fZ-t84.text" = "$120";
+
+/* Class = "UIButton"; highlightedTitle = "Sign In With Facebook"; ObjectID = "Xn8-DV-iPl"; */
+"Xn8-DV-iPl.highlightedTitle" = "Sign In With Facebook";
+
+/* Class = "UIButton"; normalTitle = "Sign In with Facebook"; ObjectID = "Xn8-DV-iPl"; */
+"Xn8-DV-iPl.normalTitle" = "Sign In with Facebook";
+
+/* Class = "UIButton"; normalTitle = "Purchase"; ObjectID = "Yfq-MS-Gp6"; */
+"Yfq-MS-Gp6.normalTitle" = "Purchase";
+
+/* Class = "UIButton"; normalTitle = "Add to Cart"; ObjectID = "YrG-pI-bau"; */
+"YrG-pI-bau.normalTitle" = "Add to Cart";
+
+/* Class = "UILabel"; text = "Recipient"; ObjectID = "ZZU-wN-bYg"; */
+"ZZU-wN-bYg.text" = "Recipient";
+
+/* Class = "UILabel"; text = "Exp. Month"; ObjectID = "cYX-EU-H7m"; */
+"cYX-EU-H7m.text" = "Exp. Month";
+
+/* Class = "UILabel"; text = "Payment"; ObjectID = "dU2-lx-908"; */
+"dU2-lx-908.text" = "Payment";
+
+/* Class = "UILabel"; text = "$120.0 x 1 = $120.0"; ObjectID = "dnb-R5-h6B"; */
+"dnb-R5-h6B.text" = "$120.0 x 1 = $120.0";
+
+/* Class = "UILabel"; text = "Card Number"; ObjectID = "e7w-W0-1WQ"; */
+"e7w-W0-1WQ.text" = "Card Number";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eup-Q7-zZG"; */
+"eup-Q7-zZG.text" = "Label";
+
+/* Class = "UIViewController"; title = "Product"; ObjectID = "gi4-tB-vWp"; */
+"gi4-tB-vWp.title" = "Product";
+
+/* Class = "UILabel"; text = "Comments"; ObjectID = "han-Tm-9um"; */
+"han-Tm-9um.text" = "Comments";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "hdw-rc-Tpp"; */
+"hdw-rc-Tpp.text" = "City";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iZr-Yw-5j9"; */
+"iZr-Yw-5j9.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "io3-Vb-Taz"; */
+"io3-Vb-Taz.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kWj-Kx-oWf"; */
+"kWj-Kx-oWf.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "m6j-W0-pTY"; */
+"m6j-W0-pTY.text" = "Label";
+
+/* Class = "UILabel"; text = "Exp. Year"; ObjectID = "nJZ-42-eL3"; */
+"nJZ-42-eL3.text" = "Exp. Year";
+
+/* Class = "UILabel"; text = "Restaurant Coffee C"; ObjectID = "o9v-1b-Fhn"; */
+"o9v-1b-Fhn.text" = "Restaurant Coffee C";
+
+/* Class = "UILabel"; text = "Restaurant Coffee C"; ObjectID = "qEa-Yp-EVx"; */
+"qEa-Yp-EVx.text" = "Restaurant Coffee C";
+
+/* Class = "UIButton"; normalTitle = "Favorite"; ObjectID = "qa3-bQ-lVe"; */
+"qa3-bQ-lVe.normalTitle" = "Favorite";
+
+/* Class = "UIViewController"; title = "Profile"; ObjectID = "uz5-31-4MU"; */
+"uz5-31-4MU.title" = "Profile";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "vJw-A0-fFT"; */
+"vJw-A0-fFT.text" = "Total";
+
+/* Class = "UIButton"; normalTitle = "Purchased"; ObjectID = "yMK-rN-BO6"; */
+"yMK-rN-BO6.normalTitle" = "Purchased";
