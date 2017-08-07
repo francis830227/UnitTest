@@ -1,0 +1,8 @@
+language: objective-c
+osx_image: xcode8.3
+branches:
+  only:
+    - master
+xcode_project: UnitTestDemo.xcodeproj
+xcode_scheme: UnitTestDemo
+script: xcodebuild clean && xcodebuild test -project UnitTestDemo.xcodeproj -scheme UnitTestDemo -sdk iphonesimulator -destination 'platform=iOS Simulator,name=iPhone 7 Plus,OS=10.3.1' CODE_SIGNING_REQUIRED=NO
